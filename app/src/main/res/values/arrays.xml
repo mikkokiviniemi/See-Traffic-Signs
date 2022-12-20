@@ -1,0 +1,20 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="model_entries">
+        <item>Combined detection classification</item>
+        <item>320p coloured v1.1</item>
+        <item>320p coloured v2.1</item>
+        <item>320p Black and white v2.1</item>
+        <item>640p coloured v2.0</item>
+        <item>640p Black and white v2.0</item>
+    </string-array>
+
+    <string-array name="model_values">
+        <item>CDC</item>
+        <item>320C_1.1</item>
+        <item>320C</item>
+        <item>320BW</item>
+        <item>640C</item>
+        <item>640BW</item>
+    </string-array>
+</resources>
